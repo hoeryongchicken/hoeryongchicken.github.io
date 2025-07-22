@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  background: #fffdf6;
+  color: #222;
+  margin: 2rem;
+}
+header, section, footer {
+  margin-bottom: 2rem;
+}
+h1 {
+  font-size: 2.5rem;
+  color: #b5121b;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+a {
+  color: #b5121b;
+  text-decoration: none;
+}
